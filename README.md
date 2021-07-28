@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hey there 👋
 
 ![Mahasvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahas1&count_private=true&theme=dark&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahas1&repo=BotMan.py&theme=dark)](https://github.com/Code-Cecilia/BotMan.py)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahas1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm working on a Discord bot as of now, and would appreciate any code contributions towards it.
+
+[![BotMan](https://github-readme-stats.vercel.app/api/pin/?username=Mahas1&repo=BotMan.py&theme=dark)](https://github.com/Code-Cecilia/BotMan.py)
+
+Until next time 👋
 <!--
 **Mahas1/Mahas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

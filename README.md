@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Mahasvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahas1&hide=contribs,prs)
 <!--
 **Mahas1/Mahas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hey there 👋
-I'm Mahasvan, and I like coding in python. 
+I'm Mahasvan, and I like coding in Python. 
 
 You can reach me on Discord: [mahasvan.exe#0001](https://discord.com/users/775176626773950474)
 

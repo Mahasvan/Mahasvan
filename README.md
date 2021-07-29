@@ -10,8 +10,6 @@ You can reach me on Discord: [mahasvan.exe#0001](https://discord.com/users/77517
 I'm working on a Discord bot! Check it out!
 
 [![BotMan](https://github-readme-stats.vercel.app/api/pin/?username=Mahas1&repo=BotMan.py&theme=dark)](https://github.com/Code-Cecilia/BotMan.py)
-
-Until next time 👋
 <!--
 **Mahas1/Mahas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

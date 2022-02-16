@@ -1,7 +1,7 @@
 ### Hey there 👋
 I'm Mahasvan, and I like coding in Python. 
 
-You can reach me on Discord: [mahasvan.exe#0001](https://discord.com/users/775176626773950474)
+You can reach me on Discord: [mahasvan.exe](https://discord.com/users/775176626773950474)
 
 ![Mahasvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahas1&count_private=true&theme=dark&show_icons=true)
 

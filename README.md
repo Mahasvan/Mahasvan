@@ -11,8 +11,8 @@
 ## I have experience in the following tech stack.
 | Topic            | Skills                                                                                                       |
 |------------------|--------------------------------------------------------------------------------------------------------------|
-| Languages        | ![Python, C, Java, Javascript, Kotlin](https://skillicons.dev/icons?i=python,java,c,javascript,kotlin)       |
-| Web Development  | ![Flask, FastAPI, Mongo, SQLite, MySQL](https://skillicons.dev/icons?i=flask,fastapi,mongo,sqlite,mysql)     |
+| Languages        | ![Python, C, Java, Javascript, React](https://skillicons.dev/icons?i=python,javascript,java,c,kotlin)        |
+| Web Development  | ![Flask, FastAPI, Mongo, SQLite, MySQL](https://skillicons.dev/icons?i=flask,fastapi,react,mongo,mysql)      |
 | DevOps           | ![Docker, Kubernetes, Git, GitHub](https://skillicons.dev/icons?i=docker,kubernetes,git,github)              |
 | Machine Learning | ![PyTorch, TensorFlow](https://skillicons.dev/icons?i=pytorch,tensorflow)                                    |
 | Platforms        | ![Windows, macOS, Linux, PyCharm, VSCode](https://skillicons.dev/icons?i=windows,apple,linux,pycharm,vscode) |

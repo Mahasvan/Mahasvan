@@ -3,19 +3,21 @@
     </h1>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="100" height="100" />
+[//]: # ()
+[//]: # (<div align="center">)
 
-</div>
+[//]: # (    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="100" height="100" />)
+
+[//]: # ()
+[//]: # (</div>)
 
 ## I have experience in the following tech stack.
-| Topic            | Skills                                                                                                       |
-|------------------|--------------------------------------------------------------------------------------------------------------|
-| Languages        | ![Python, C, Java, Javascript, React](https://skillicons.dev/icons?i=python,javascript,java,c,kotlin)        |
-| Web Development  | ![Flask, FastAPI, Mongo, SQLite, MySQL](https://skillicons.dev/icons?i=flask,fastapi,react,mongo,mysql)      |
-| DevOps           | ![Docker, Kubernetes, Git, GitHub](https://skillicons.dev/icons?i=docker,kubernetes,git,github)              |
-| Machine Learning | ![PyTorch, TensorFlow](https://skillicons.dev/icons?i=pytorch,tensorflow)                                    |
-| Platforms        | ![Windows, macOS, Linux, PyCharm, VSCode](https://skillicons.dev/icons?i=windows,apple,linux,pycharm,vscode) |
+| Topic            | Skills                                                                                                    |
+|------------------|-----------------------------------------------------------------------------------------------------------|
+| Languages        | ![Python, C, Java, Javascript, React](https://skillicons.dev/icons?i=python,javascript,java,swift,c)      |
+| Web Development  | ![Flask, FastAPI, Mongo, SQLite, MySQL](https://skillicons.dev/icons?i=flask,fastapi,react,angular,mongo) |
+| DevOps           | ![Docker, Kubernetes, Git](https://skillicons.dev/icons?i=docker,kubernetes,git)                          |
+| Machine Learning | ![PyTorch, TensorFlow](https://skillicons.dev/icons?i=pytorch,tensorflow)                                 |
 
 <div>
     <h2>

@@ -21,7 +21,6 @@
 
 <div>
     <h2>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
         Let's connect on <a href="https://discord.com/users/775176626773950474">Discord!</a>    
     </h2>
 </div>
@@ -29,7 +28,7 @@
 [//]: # (Invisible profile counter, Maybe I'll make it visible as time goes?)
 
 <div>
-    <img src="https://profile-counter.glitch.me/Mahasvan/count.svg" alt="counter" width=0%">
+    <img src="https://komarev.com/ghpvc/?username=Mahasvan" alt="counter" width=0%">
 </div>
 
 
